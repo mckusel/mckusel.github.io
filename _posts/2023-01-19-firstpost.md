@@ -5,3 +5,6 @@ Hello! I am going to show you everything I crocheted in the month of January.
 But first, I need to figure out how to add images to this page...and maybe emojis.
 
 For now, please settle for a good ol' fashioned :P
+
+
+![square pillow](/images/crochet_pillow/IMG_5238.jpg)
