@@ -7,4 +7,4 @@ But first, I need to figure out how to add images to this page...and maybe emoji
 For now, please settle for a good ol' fashioned :P
 
 
-![square pillow](/IMG_5238.jpg)
+![square pillow](/images/IMG_5238.jpg)
